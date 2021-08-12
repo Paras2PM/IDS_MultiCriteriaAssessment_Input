@@ -1,2 +1,2 @@
 # IDS_MultiCriteriaAssessment_Input
-Automat Importing multi-file in Intelligence Decision System for Multiple Criteria Assessment (ER)
+Automat Importing and Running IDS-(Intelligence Decision System for Multiple Criteria Assessment) for multiple input data file
